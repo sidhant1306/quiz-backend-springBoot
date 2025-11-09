@@ -4,7 +4,7 @@ This project is a Spring Boot REST API for managing quizzes and questions.
 It includes question management, quiz creation, secure DTO-based question delivery, scoring logic, exception handling, and full Swagger documentation.
 Built as a learning-focused backend project with proper architecture and clean code practices.
 
-========================================================================================================================================================================================================
+============================================================================================================================================================
 
 Features
 
